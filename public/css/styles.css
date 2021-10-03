@@ -1,0 +1,102 @@
+#allContent{
+    padding-top: 6%;
+    padding-left: 6%;
+    padding-right: 6%;
+}
+
+#burgerDiv {
+    width: 30px;
+    height: 3px;
+    background-color: black;
+    margin: 6px 0;
+}
+
+#buttonDiv {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 85%;
+}
+
+#TitleInput{
+    width: 44%;
+}
+
+#propertyNameTitle,#numberInput{
+    width: 51%;
+}
+
+#typeSelectLabel{
+    padding-top: 3%;
+}
+
+#typeSelect{
+    width: 40%;
+}
+
+.button5 {
+    border-radius: 12px;
+    background-color: rgb(45, 40, 77);
+    color: antiquewhite;
+}
+
+.addButton{
+    border-radius: 12px;
+    background-color: rgb(45, 40, 77);
+    color: antiquewhite;
+}
+
+.cancelButton{
+    border-radius: 30px;    
+    color: black;
+}
+
+html, body {
+    background-color: #fff;
+    color: #636b6f;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    height: 100vh;
+    margin: 0;
+}
+
+.full-height {
+    height: 100vh;
+}
+
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.position-ref {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    right: 10px;
+    top: 18px;
+}
+
+.content {
+    text-align: center;
+}
+
+.title {
+    font-size: 84px;
+}
+
+.links > a {
+    color: #636b6f;
+    padding: 0 25px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.m-b-md {
+    margin-bottom: 30px;
+}
